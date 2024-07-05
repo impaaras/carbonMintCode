@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "297797240603",
+    "project_id": "carbonmint-4bc7e",
+    "storage_bucket": "carbonmint-4bc7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297797240603:android:597c4685effb3ca16475be",
+        "android_client_info": {
+          "package_name": "com.carbonmint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297797240603-ns0oscnfnge5v7mb8875vdp4kr9qdgbi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carbonmint",
+            "certificate_hash": "3122f36818ae42b648894a027fb84a1997f301aa"
+          }
+        },
+        {
+          "client_id": "297797240603-hri1hphktr6b4ni2l3obo6hokpn3g1o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm_XXYE_6d6Up6ILGWjBctTl-WxovDQUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297797240603-hri1hphktr6b4ni2l3obo6hokpn3g1o3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "297797240603-6csku856pftn2sf6091u9404brqmhn1k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.carbonMint"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
