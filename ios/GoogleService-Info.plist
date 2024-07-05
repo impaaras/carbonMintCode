@@ -7,9 +7,9 @@
 	<key>REVERSED_CLIENT_ID</key>
 	<string>com.googleusercontent.apps.297797240603-6csku856pftn2sf6091u9404brqmhn1k</string>
 	<key>ANDROID_CLIENT_ID</key>
-	<string>297797240603-55m5h9plg4kkmkniga9ar5cl0usjsjiv.apps.googleusercontent.com</string>
+	<string>hsk-55m5h9plg4kkmkniga9ar5cl0usjsjiv.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyC49sm5K9NquT85x_h6kW_i52vn1PSSz78</string>
+	<string>api_key</string>
 	<key>GCM_SENDER_ID</key>
 	<string>297797240603</string>
 	<key>PLIST_VERSION</key>
